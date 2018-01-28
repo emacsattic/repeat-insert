@@ -2,6 +2,7 @@
 
 ;;; Copyright (C) 1990 Bard Bloom
 
+;; License: GPL
 
 ;; A gizmo for quickly generating text with a pattern, and in particular
 ;; arithmetic progressions.  For example, you might want to
